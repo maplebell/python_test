@@ -57,6 +57,7 @@ if __name__ == "__main__":
                 chan.send(command)
                 r = chan.recv(8192)
                 print(r.decode())
+                # print(r.decode(errors='ignore'))
             else:
                 chan.send("exit")
                 print("exiting")
