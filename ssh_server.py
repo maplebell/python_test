@@ -1,4 +1,6 @@
 # file: ssh_server.py
+# username: shower
+# password: pwd
 import os
 import paramiko
 import socket
