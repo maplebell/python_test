@@ -1,11 +1,6 @@
-参考资料
-
 链接1：https://nostarch.com/black-hat-python2E/
-
 链接2：https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
-
 链接3：https://www.kali.org/downloads/
-
 链接4：https://www.kali.org/docs/installation/
 链接5：https://www.jetbrains.com/pycharm/download/
 链接6：https://wingware.com/downloads/
@@ -33,7 +28,7 @@
 链接20：https://github.com/OJ/gobuster/
 链接21：https://www.netsparker.com/blog/web-security/svn-digger-better-lists-for-forced-browsing/
 链接22：https://owasp.org/www-project-vulnerable-web-applications-directory/
-链接23：https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Software/ 
+链接23：https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Software/
 cain-and-abel.txt
 链接24：boodelyboo.com/
 
