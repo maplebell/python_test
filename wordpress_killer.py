@@ -65,6 +65,5 @@ class Bruter:
 
 if __name__ == "__main__":
     words = get_words()
-    # b = Bruter('tim', 'http://boodelyboo.com/wordpress/wp-login.php')
-    b = Bruter('tim', 'http://172.16.28.129/wordpress/wp-admin/setup-config.php?step=1')
+    b = Bruter('tim', 'http://boodelyboo.com/wordpress/wp-login.php')
     b.run_bruteforce(words)
